@@ -64,7 +64,7 @@ export default function App() {
 
   return (
     <>
-      <main className="flex flex-col min-h-screen bg-[url('pokemon-bg.png')] bg-cover bg-center bg-no-repeat min-w-screen">
+      <main className="flex flex-col min-h-screen bg-[url('https://wallpapercave.com/wp/wp10425519.png')] bg-cover bg-center bg-no-repeat min-w-screen">
         <nav className="flex justify-between items-center px-3 mb-[0.5rem]">
           <div>
             <h1
